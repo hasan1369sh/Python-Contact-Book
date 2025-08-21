@@ -22,7 +22,7 @@ A powerful, user-friendly, and persistent contact book built with Python. Design
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/hasan1369sh/contact-book.git
+   git clone https://github.com/hasan1369sh/Python-Contact-Book.git
 
 2. Go to the project:
     cd Python-Contact-Book
